@@ -1,0 +1,4 @@
+command script import ~/.lldb/print_json.py
+command script import ~/.lldb/write.py
+setting set escape-non-printables false
+set set target.max-string-summary-length 100000
